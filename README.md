@@ -28,10 +28,6 @@ Besides the files that the script downloads there are a few special files needed
 
 In the `index.html` there are a few ads and trackers setup, I manually removed them. So for future updates these need to be removed manually again.
 
-### Mods
-
-The [Cookie Monster](https://github.com/CookieMonsterTeam/CookieMonster) addon is included by default.
-
 # Contributing
 
 You are welcome to open PRs.
